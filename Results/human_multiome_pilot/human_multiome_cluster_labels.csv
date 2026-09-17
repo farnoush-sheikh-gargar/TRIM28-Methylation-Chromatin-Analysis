@@ -1,0 +1,17 @@
+"Cluster","CellType","Number_of_cells"
+"0","Proximal tubule",389
+"1","Proximal tubule",383
+"10","Endothelial cell",80
+"11","Macrophage/myeloid",61
+"12","Fibroblast/interstitial",60
+"13","Mixed PT/TAL-like tubular population",52
+"14","T cell",52
+"15","Type B/non-A intercalated cell",50
+"2","B/plasma-lineage cells",330
+"3","Thick ascending limb",261
+"4","Collecting duct principal cell",254
+"5","Distal convoluted tubule",197
+"6","Thick ascending limb subtype",130
+"7","Proximal tubule subtype",130
+"8","Podocyte",115
+"9","Type A intercalated cell",96
